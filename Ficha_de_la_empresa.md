@@ -8,7 +8,7 @@
 
 ## Descripción
 
-**Somos un pequeño almacén de barrio especializado en productos de alimentación. Ofrecemos alimentos frescos, productos básicos y artículos de despensa para satisfacer las necesidades diarias de nuestros vecinos. Nuestro compromiso es proporcionar un servicio cercano y de confianza, apoyando a productores locales y garantizando la calidad en cada uno de nuestros productos.** 
+**Este pequeño almacén de barrio está especializado en productos de alimentación. Ofrece alimentos frescos, productos básicos y artículos de despensa para satisfacer las necesidades diarias de los vecinos de la zona. El compromiso es proporcionar un servicio cercano y de confianza, apoyando a productores locales y garantizando la calidad en cada uno de los productos.** 
 
 ---
 
@@ -54,16 +54,16 @@
 ## Información Adicional
 
 - **Certificaciones:** 
-	- **Certificación de Manipulación de Alimentos:** Garantizamos que todo nuestro personal cumple con las normativas de seguridad alimentaria y ha recibido formación en manipulación higiénica.
+	- **Certificación de Manipulación de Alimentos:** Garantiza que todo el personal cumple con las normativas de seguridad alimentaria y ha recibido formación en manipulación higiénica.
 	- **Sello de Calidad Local:** Reconocidos como promotores de productos frescos de origen local.
 - **Responsabilidad Social Empresarial:** 
-	- **Apoyo a Productores Locales:** Colaboramos activamente con agricultores y proveedores locales para fomentar el desarrollo de la economía de nuestra comunidad.
-	- **Donaciones a Bancos de Alimentos:** Contribuimos regularmente con productos no perecederos a organizaciones benéficas locales.
+	- **Apoyo a Productores Locales:** Colabora activamente con agricultores y proveedores locales para fomentar el desarrollo de la economía de la comunidad.
+	- **Donaciones a Bancos de Alimentos:** Contribuyen regularmente con productos no perecederos a organizaciones benéficas locales.
 	- 
 - **Sostenibilidad:** 
-	- **Reducción de Plásticos:** Fomentamos el uso de bolsas reutilizables y ofrecemos alternativas biodegradables en el empaque de nuestros productos.
-	-   **Gestión de Residuos:** Implementamos un sistema de reciclaje efectivo en nuestro almacén.
-	- **Productos Eco-Friendly:** Contamos con una selección de productos ecológicos y sostenibles, promoviendo prácticas responsables con el medio ambiente.
+	- **Reducción de Plásticos:** Fomenta el uso de bolsas reutilizables y ofrecemos alternativas biodegradables en el empaque de sus productos.
+	-   **Gestión de Residuos:** Implementa un sistema de reciclaje efectivo en el almacén.
+	- **Productos Eco-Friendly:** Cuenta con una selección de productos ecológicos y sostenibles, promoviendo prácticas responsables con el medio ambiente.
 
 ---
 

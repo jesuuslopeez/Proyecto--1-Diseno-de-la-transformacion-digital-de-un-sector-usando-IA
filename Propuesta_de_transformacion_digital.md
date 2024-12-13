@@ -1,4 +1,4 @@
-# **Plan de transformacion digital para Alimnentacion Juani**
+# **Plan de transformacion digital para Alimentación Juani**
 
 ## 1. Objetivo de la transformacion digital
 
@@ -13,7 +13,8 @@
 
 ## 3. **Estrategias de digitalizacion**
 
-### Estrategia 1: Creacion de una tienda Online
+### Estrategias IT
+#### **Creacion de una tienda Online**
 
 - **Implementacion:**
     - Desarrollo de una página web con diseño intuitivo y optimización para móviles.
@@ -24,17 +25,10 @@
 - **Beneficios:**
     - Aumento de la visibilidad del negocio
     - Facilitar la compra a clientes que prefieran el e-commerce
-    
-### **Estrategia 2: Sistema de logística inteligente**
-- **Implementación**:
-  - Contratación de un servicio de reparto que gestione los pedidos de la tienda online.
-  - Seguimiento con GPS para que los clientes puedan rastrear sus pedidos.
-  - Notificaciones automáticas a través de Gmail para informar sobre el estado de su pedido.
-- **Beneficios**:
-  - Mejora de la experiencia del cliente con tiempos de entrega claros.
-  - Reducción del tiempo y esfuerzo del personal en la tienda.
-    
-### **Estrategia 3: Análisis de datos para toma de decisiones**
+
+---
+
+#### **Análisis de datos para toma de decisiones** 
 - **Recogida de datos**:
   - Información de ventas en tienda física y online.
   - Registro de preferencias de compra de los clientes (frecuencia, productos más comprados).
@@ -44,7 +38,9 @@
   - Identificar patrones para crear promociones específicas y personalizadas.
   - Mejorar la experiencia del cliente a través de recomendaciones basadas en compras previas.
 
-### **Estrategia 4: Gestión de inventarios con IA**
+---
+
+#### **Gestión de inventarios con IA**
 - **Implementación**:
   - Software de inteligencia artificial que analice los datos de compras y planifique automáticamente el reabastecimiento.
   - Considerar factores como la época del año y promociones.
@@ -53,16 +49,9 @@
   - Ahorro de tiempo al automatizar tareas repetitivas.
   - Mejor respuesta ante cambios en la demanda.
 
-### **Estrategia 5: Plan de mantenimiento preventivo con IA y Big Data**
-- **Implementación**:
-  - Uso de herramientas de IA y Big Data para monitorear el estado de los equipos de refrigeración, almacenamiento y sistemas digitales.
-  - Análisis de datos históricos y patrones de uso para predecir fallos antes de que ocurran.
-- **Beneficios**:
-  - Reducción de costos asociados con reparaciones inesperadas.
-  - Minimización del tiempo de inactividad en operaciones críticas.
-  - Extensión de la vida útil de los equipos mediante mantenimiento proactivo.
+---
 
-### **Estrategia 6: Marketing Digital**
+#### **Marketing Digital**
 - **Implementación**:
   - Campañas en redes sociales con ofertas personalizadas.
   - Email marketing para fidelización de clientes.
@@ -72,31 +61,41 @@
   - Aumentar la frecuencia de compra de los clientes actuales.
   - Crear una comunidad en torno a la marca.
 
-## **4. Optimización de procesos con IA**
+---
 
-### **Optimización de procesos de planta (OT - Tecnología Operativa)**
+### Estrategias OT
+#### **Plan de mantenimiento preventivo con IA y Big Data**
+- **Implementación**:
+  - Uso de herramientas de IA y Big Data para monitorear el estado de los equipos de refrigeración, almacenamiento y sistemas digitales.
+  - Análisis de datos históricos y patrones de uso para predecir fallos antes de que ocurran.
+- **Beneficios**:
+  - Reducción de costos asociados con reparaciones inesperadas.
+  - Minimización del tiempo de inactividad en operaciones críticas.
+  - Extensión de la vida útil de los equipos mediante mantenimiento proactivo.
 
-1. **Gestión de inventarios basada en datos**:
-   - La IA analiza datos históricos y en tiempo real para preveer demandas futuras, minimizando desperdicios y asegurando la disponibilidad de productos clave.
+---
 
-2. **Mantenimiento preventivo con IA**:
-   - Monitoreo de equipos críticos con IA para anticipar fallos antes de que ocurran, reduciendo interrupciones y costos de reparación.
+### Estrategias combinadas IT y OT
+#### **Sistema de logística inteligente**
+- **Implementación**:
+  - Contratación de un servicio de reparto que gestione los pedidos de la tienda online. (OT)
+  - Seguimiento con GPS para que los clientes puedan rastrear sus pedidos. (IT)
+  - Posibilidad de activar en la web notificaciones automáticas a través de Gmail para informar sobre el estado de su pedido. (IT)
+- **Beneficios**:
+  - Mejora de la experiencia del cliente con tiempos de entrega claros.
+  - Reducción del tiempo y esfuerzo del personal en la tienda.
 
-3. **Logística inteligente**:
-   - Seguimiento de rutas de entrega mediante sistemas de seguimiento GPS, mejorando la eficiencia y reduciendo los tiempos de entrega a la hora de entregar los productos a los clientes
+---
+    
 
-### **Optimización de procesos de negocio (IT - Tecnología de la Información)**
 
-1. **Análisis predictivo de ventas y promociones**:
-   - Utiliza IA para identificar patrones de consumo y diseñar promociones personalizadas, mejorando la experiencia del cliente.
 
-2. **Atención al cliente automatizada**:
-   - Chatbots con IA resuelven consultas frecuentes, ofreciendo soporte 24/7 y aumentando las ventas online.
 
-3. **Marketing digital basado en datos**:
-   - Estrategias de marketing personalizadas basadas en el análisis de datos, incrementando la fidelidad de los clientes.
 
-## **5. Cronograma de Implementación**
+
+
+
+## **4. Cronograma de Implementación**
 
 | **Fase**            | **Duración** | **Actividades**                                    | **Consecuencia**                  |
 |----------------------|--------------|----------------------------------------------------|-------------------------------------------|
@@ -109,7 +108,7 @@
 
 ---
 
-## **6. Beneficios de la Transformación Digital**
+## **5. Beneficios de la Transformación Digital**
 - **Para los clientes**:
   - Experiencia de compra más cómoda y rápida.
   - Promociones y ofertas personalizadas.
@@ -120,7 +119,7 @@
   - Decisiones estratégicas basadas en datos reales.
   - Reducción de fallos operativos mediante mantenimiento preventivo.
 
-## **7. Impacto en el sector**
+## **6. Impacto en el sector**
 
 1. **Innovación en el modelo de negocio**:
    - Alimentación Juani se posiciona como un referente en digitalización para pequeños comercios, demostrando cómo adaptarse a los cambios tecnológicos.
