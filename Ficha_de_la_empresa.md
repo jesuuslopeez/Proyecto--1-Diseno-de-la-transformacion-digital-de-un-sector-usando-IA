@@ -38,6 +38,13 @@
 
 ---
 
+## Clientes
+- Este negocio va dirigido a clientes de todo tipo de edades que quieran comprar tanto de forma física como online.
+- Principalmente está dirigida a clientes cercanos a la ubicación del negocio, aunque busca expandirse nacionalmente de manera online a través de su web.
+- Está tipo de negocio está dirigido a una población de clase baja-media, ya que sus productos se encuentran al alcance de todo el mundo.
+
+---
+
 ## Equipo y Recursos Humanos
 
 - **Representante Legal:** Juani Olivero Rojas

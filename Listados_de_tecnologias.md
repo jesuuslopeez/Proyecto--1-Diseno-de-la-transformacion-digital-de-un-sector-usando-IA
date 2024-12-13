@@ -1,6 +1,7 @@
 # Listado de tecnologías:
 
 - # En planta:
+    #### La digitalización en planta es la incorporación de tecnologías digitales para optimizar procesos productivos, mejorar la eficiencia, reducir costos y facilitar la toma de decisiones en tiempo real.
 
     -   **Software de Gestión de inventario (Warehouse Management System)**:
 Permite llevar un control mas claro del inventario, registrando entradas y salidas de productos en tiempo real, en la cual obtiene de beneficio evitar el sobrestock o desasbastecimiento optimizando asi el almacenamiento.
@@ -17,7 +18,7 @@ Consiste en el uso de tecnologías como cintas transportadoras automatizadas y s
 El Internet de las Cosas (IoT) conecta dispositivos como sensores y etiquetas inteligentes para rastrear productos y optimizar la cadena de suministro, permitiendo obtener datos en tiempo real sobre la ubicación, el estado y el recorrido de los productos.
 
 - # De negocio: 
-
+    #### La digitalización de negocio es el uso de tecnologías digitales para transformar procesos, modelos y estrategias empresariales, mejorando la eficiencia, la experiencia del cliente y la competitividad en el mercado.
     -   **E-Commerce Local**:
     Una plataforma de venta online para que los clientes puedan realizar pedidos desde casa.
 
@@ -29,3 +30,6 @@ El Internet de las Cosas (IoT) conecta dispositivos como sensores y etiquetas in
 
     - **Customer Relationship Management**:
     Permite registrar información de los clientes y personalizar promociones o descuentos, lo cual se obtiene de beneficio fidelizar clientes y aumentar las ventas.
+
+# Diferencias entre digitalización en planta y de negocio
+- La digitalización en planta se centra en optimizar procesos productivos mediante tecnologías como IoT y automatización. La digitalización de negocio transforma modelos empresariales, mejorando la experiencia del cliente y la estrategia global.
