@@ -1,4 +1,10 @@
 # Proyecto-1:   Dise-o-de-la-transformaci-n-digital-de-un-sector-usando-IA
+ - Realizado por:
+	 - Adrián Fernández
+	- Jesús Gallardo
+	- Óscar García
+	- Jesús López
+	- Samuel Sánchez
 
 ## Realizacion del proyecto
 
